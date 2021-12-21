@@ -10,7 +10,7 @@ I'm Prasad Khalkar pursuing Bachelors Degree in Information Technology 💻  Flu
 
 - 💬 I'm Looking for Internship Opportunities ;
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="350" height="300" />
 
 ##### 💻 TECHNOLOGIES I KNOW
 
@@ -34,6 +34,9 @@ I'm Prasad Khalkar pursuing Bachelors Degree in Information Technology 💻  Flu
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<br>
+<br>
 
 ### Github Stats:
 
