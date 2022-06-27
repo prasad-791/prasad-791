@@ -8,7 +8,7 @@ I'm Prasad Khalkar pursuing Bachelors Degree in Information Technology 💻  Flu
 [![Twitter Badge](https://img.shields.io/badge/-@khalkar_prasad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khalkar_prasad)](https://twitter.com/khalkar_prasad) [![Linkedin Badge](https://img.shields.io/badge/-PrasadKhalkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-khalkar-4931101b1/) [![Mail Badge](https://img.shields.io/badge/-@prasadk791-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/prasadk791/) [![Mail Badge](https://img.shields.io/badge/-Prasad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aniketkhalkar791@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=prasad-791.prasad-791)
 
-- 💬 I'm Looking for Internship Opportunities ;
+<!-- - 💬 I'm Looking for Internship Opportunities ; -->
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="310" height="270" />
 
